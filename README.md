@@ -5,7 +5,15 @@ Simple, minimalistic carousel design based entirely on HTML, CSS and Javascript.
 You are allowed to modify the file(s) as you see fit as long as proper credits are provided.
 
 # Preview
-TBA
+## Desktop:
+![Desktop Preview](https://i.imgur.com/7px3v8X.png)
+### GIF:
+https://media.giphy.com/media/lj4irlvumAuLkTT3jF/giphy.gif (slowed down version, download actual files to see proper results)
+
+## Mobile:
+![Mobile Preview](https://i.imgur.com/YJpK1fI.png)
+### GIF:
+https://media.giphy.com/media/E0zDaxoA9YT9ArBk3Q/giphy.gif (slowed down version, download actual files to see proper results)
 
 # Usage
 If you want to use it, you are free to do so. The HTML code provided below must be included in your HTML file (and the respective styles provided in the styles.css) in order for the carousel to properly work:
